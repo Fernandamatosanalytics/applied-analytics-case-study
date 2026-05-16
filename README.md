@@ -30,3 +30,10 @@ This project explores customer segmentation, business insights, KPI tracking, an
 ![Dashboard](screenshots/Slide%2002.jpeg)
 
 ![Dashboard](screenshots/Slide%2003.jpeg)
+## Dashboard Screenshots
+
+![Dashboard](screenshots/Slide%2001.jpeg)
+
+![Dashboard](screenshots/Slide%2002.jpeg)
+
+![Dashboard](screenshots/Slide%20003.jpeg)
